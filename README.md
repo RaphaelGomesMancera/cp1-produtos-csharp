@@ -15,14 +15,3 @@ Projeto desenvolvido em C# como parte da CP1.
 ## ▶️ Como executar
 ```bash
 dotnet run
-
----
-
-## 📌 4. Subir junto com o projeto
-
-Depois faz:
-
-```bash
-git add .
-git commit -m "Adicionando README"
-git push
