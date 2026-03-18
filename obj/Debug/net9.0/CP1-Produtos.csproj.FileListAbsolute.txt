@@ -1,0 +1,14 @@
+C:\Users\labsfiap\CP1-Produtos\bin\Debug\net9.0\CP1-Produtos.exe
+C:\Users\labsfiap\CP1-Produtos\bin\Debug\net9.0\CP1-Produtos.deps.json
+C:\Users\labsfiap\CP1-Produtos\bin\Debug\net9.0\CP1-Produtos.runtimeconfig.json
+C:\Users\labsfiap\CP1-Produtos\bin\Debug\net9.0\CP1-Produtos.dll
+C:\Users\labsfiap\CP1-Produtos\bin\Debug\net9.0\CP1-Produtos.pdb
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.AssemblyInfoInputs.cache
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.AssemblyInfo.cs
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.dll
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\refint\CP1-Produtos.dll
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.pdb
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\CP1-Produtos.genruntimeconfig.cache
+C:\Users\labsfiap\CP1-Produtos\obj\Debug\net9.0\ref\CP1-Produtos.dll
